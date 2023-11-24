@@ -1,3 +1,3 @@
-# X Binder
-This tool is used to bind trojans with real software.
-Password: @ReverseEngineeringLab
+# X Worm
+This is a remote access trojan that has been cracked.
+Discord: https://discord.gg/WMrsP5MJ
